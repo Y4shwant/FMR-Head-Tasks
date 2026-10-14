@@ -1,0 +1,13 @@
+# not part of the site
+timeline.txt
+*.xlsx
+*.xls
+
+# Claude files
+.claude/
+CLAUDE.md
+.claude.json*
+
+# misc
+.DS_Store
+Thumbs.db
