@@ -74,7 +74,7 @@ window.NEW_INITIATIVES = [
   { title: "Branding proof right after fest", text: "Branding proof gets done immediately post fest, to maintain good relations with partners." },
   { title: "Culturals probe: diversify proshow contacts", text: "Work with labels similar to Think Music for a free proshow with no JD clash with FCT, for example Represent and first.wav. Partnering with Think Music gave us credibility." },
   { title: "Press releases after every fest day", text: "Send out press releases after the end of each day of fest." },
-  { title: "Student-creator fellowship", text: "Pick about 10 campus creators (photo, video, writing) and give them first access and a credential. They cover the fest for us, and it doubles as a recruiting funnel for next year's FMR." },
+  { title: "Student-creator fellowship", text: "Student creators give us reach, and in exchange they get an invite to fest with accommodation." },
 ];
 
 /* Initiative timelines. Month axis: 0 = NOV (2026) ... 12 = NOV (2027); start/end are indices into INIT_MONTHS */
@@ -326,13 +326,13 @@ window.INIT_PLANS = [
  },
  {
   "title": "Student-creator fellowship",
-  "blurb": "About 10 campus creators with first access",
+  "blurb": "Reach in exchange for a fest invite with accommodation",
   "start": 7,
   "end": 12,
   "tasks": [
    {
     "when": "JUN · 2nd Week",
-    "task": "Define roles, perks and the credential design (with Graphique)"
+    "task": "Define roles and the perk: a fest invite with accommodation"
    },
    {
     "when": "JUL · 1st Week",
@@ -356,11 +356,11 @@ window.INIT_PLANS = [
    },
    {
     "when": "SEP · 3rd Week",
-    "task": "Coverage during fest; passes issued with FPR"
+    "task": "Coverage during fest; accommodation arranged with FPR"
    },
    {
     "when": "OCT · 1st Week",
-    "task": "Showcase of the work; recruitment funnel for next year's FMR"
+    "task": "Showcase of the work and thank-you to the fellows"
    }
   ]
  }
